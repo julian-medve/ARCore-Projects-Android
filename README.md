@@ -6,7 +6,7 @@ https://developers.google.com/ar/develop/java/emulator#update-arcore
 
 And the android emulator should be run with API 29 and installed necessary sdk like this image.
 
-<img src="https://github.com/tarzan0420/ARCore-Projects-Android/tree/main/Assets/SDK.png" height="340"/> 
+<img src="https://github.com/tarzan0420/ARCore-Projects-Android/blob/main/Assets/SDK.png" height="340"/> 
 
 
 A combination of different android projects using the ARCore library.
